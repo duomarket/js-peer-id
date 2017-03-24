@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "async": "^2.2.0",
-    "libp2p-crypto": "~0.8.7",
+    "libp2p-crypto": "git://github.com/duomarket/js-libp2p-crypto.git",
     "lodash": "^4.17.4",
     "multihashes": "~0.4.5"
   },
